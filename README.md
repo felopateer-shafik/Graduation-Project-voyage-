@@ -69,7 +69,6 @@ The platform aims to solve the fragmentation problem in modern travel planning b
 * Zustand
 * Tailwind CSS
 * Axios
-* Three.js
 
 ### Backend
 
@@ -117,7 +116,6 @@ Additional services include:
 * Google Gemini AI
 * Google Cloud Storage
 * Google Maps API
-* Three.js AR Components
 
 ---
 
