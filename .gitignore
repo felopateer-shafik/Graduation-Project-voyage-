@@ -1,0 +1,51 @@
+# Root Configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Common OS / IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Backend Patterns
+backend/target/
+backend/build/
+backend/out/
+backend/.gradle/
+backend/.mvn/
+backend/bin/
+backend/.settings/
+backend/.project
+backend/.classpath
+backend/.factorypath
+backend/.springBeans
+backend/.sts4-cache/
+backend/*.properties.local
+backend/*.yml.local
+backend/uploads/
+backend/temp/
+backend/*.log
+backend/logs/
+
+# Frontend Patterns
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/dist/
+frontend/build/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
