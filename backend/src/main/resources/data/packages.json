@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Cairo & Luxor Pharaonic Journey — 6 Days",
+    "description": "Trace the footsteps of the pharaohs on this unforgettable journey along the Nile. Begin in Cairo with the Great Pyramids and the Egyptian Museum, then fly south to Luxor — the world's greatest open-air museum — for Karnak Temple, the Valley of the Kings, and a sunset felucca ride on the Nile.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?w=1200",
+    "originCityCode": "CAI",
+    "destinationCityCode": "LXR",
+    "nights": 6,
+    "pricePerPerson": 1280.00,
+    "totalPrice": 2560.00,
+    "currency": "EGP",
+    "inclusions": [
+      "Round-trip economy flights Cairo ↔ Luxor",
+      "6 nights in 4-star hotels (3 Cairo, 3 Luxor)",
+      "Daily breakfast included",
+      "Cairo: Pyramids of Giza & Sphinx guided tour",
+      "Cairo: Egyptian Museum skip-the-line entry",
+      "Luxor: Karnak Temple & Valley of the Kings guided tour",
+      "All airport and hotel transfers",
+      "Dedicated English-speaking guide throughout"
+    ],
+    "itinerary": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival in Cairo",
+        "description": "Arrive at Cairo International Airport and transfer to your hotel in Giza. After settling in, enjoy a welcome dinner with views of the illuminated pyramids.",
+        "activities": ["Airport transfer", "Hotel check-in", "Welcome dinner at a Nile-view restaurant"]
+      },
+      {
+        "dayNumber": 2,
+        "title": "Giza Plateau & Egyptian Museum",
+        "description": "A full day exploring ancient Cairo's greatest treasures. Morning at the Giza Plateau to see the three great pyramids and the Sphinx up close; afternoon at the Egyptian Museum to marvel at Tutankhamun's golden death mask.",
+        "activities": ["Giza Plateau & Great Sphinx guided tour", "Egyptian Museum visit (Tutankhamun gallery)", "Khan El Khalili bazaar walk", "Traditional Egyptian lunch included"]
+      },
+      {
+        "dayNumber": 3,
+        "title": "Islamic Cairo & Coptic Quarter",
+        "description": "Explore the medieval layers of Cairo — from the Ottoman mansions of Al-Muizz Street to the ancient churches of Coptic Cairo.",
+        "activities": ["Al-Muizz Street & Bayt Al-Suhaymi visit", "Citadel of Saladin & Mohammed Ali Mosque", "Coptic Cairo walking tour", "Free evening in the city"]
+      },
+      {
+        "dayNumber": 4,
+        "title": "Fly to Luxor — East Bank",
+        "description": "Morning flight to Luxor, the ancient city of Thebes. After hotel check-in, spend the afternoon exploring the magnificent temples of the East Bank.",
+        "activities": ["Morning flight Cairo → Luxor", "Karnak Temple complex tour", "Luxor Temple at sunset", "Felucca ride on the Nile"]
+      },
+      {
+        "dayNumber": 5,
+        "title": "Valley of the Kings & West Bank",
+        "description": "Cross to the West Bank for the most iconic archaeological sites in the world — the Valley of the Kings, the Mortuary Temple of Hatshepsut, and the Colossi of Memnon.",
+        "activities": ["Valley of the Kings (3 tombs included)", "Temple of Hatshepsut at Deir el-Bahari", "Colossi of Memnon sunrise stop", "Deir el-Medina artisan village (optional)"]
+      },
+      {
+        "dayNumber": 6,
+        "title": "Departure",
+        "description": "Enjoy a leisurely morning before your transfer to Luxor Airport for your onward journey.",
+        "activities": ["Final hotel breakfast", "Souvenir shopping at local market", "Airport transfer & departure"]
+      }
+    ]
+  },
+  {
+    "name": "Dubai Modern Escape — 5 Days",
+    "description": "Experience the spectacular contrast of old and new in the UAE's most dazzling city. Ascend the world's tallest building, cruise the historic creek by wooden abra, discover Emirati heritage in the Al Fahidi neighbourhood, and lose yourself in the gold and spice souks — all in five extraordinary days.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200",
+    "originCityCode": "CAI",
+    "destinationCityCode": "DXB",
+    "nights": 5,
+    "pricePerPerson": 1450.00,
+    "totalPrice": 2900.00,
+    "currency": "EGP",
+    "inclusions": [
+      "Round-trip economy flights Cairo ↔ Dubai",
+      "5 nights in a 5-star Downtown Dubai hotel",
+      "Daily breakfast buffet",
+      "Burj Khalifa At the Top (124th floor) tickets",
+      "Desert safari with dune bashing & BBQ dinner",
+      "Dubai Creek abra boat ride & souks tour",
+      "All airport and hotel transfers",
+      "Welcome gift package in room"
+    ],
+    "itinerary": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival in Dubai",
+        "description": "Touch down in Dubai and transfer to your luxury hotel near Downtown. Spend the afternoon at leisure, then enjoy an evening stroll along the Dubai Fountain at the base of the Burj Khalifa.",
+        "activities": ["Airport transfer to Downtown hotel", "Hotel check-in & leisure time", "Dubai Fountain & Dubai Mall evening walk"]
+      },
+      {
+        "dayNumber": 2,
+        "title": "Burj Khalifa & Downtown Icons",
+        "description": "A full day in the heart of modern Dubai. Morning ascent of the Burj Khalifa for panoramic city views, then explore the Dubai Mall — one of the world's largest shopping centres — and the nearby Dubai Aquarium.",
+        "activities": ["Burj Khalifa At the Top (124th floor) guided visit", "Dubai Aquarium & Underwater Zoo", "Dubai Mall exploration & lunch", "Dubai Fountain show (evening, weather permitting)"]
+      },
+      {
+        "dayNumber": 3,
+        "title": "Old Dubai — Creek, Gold & Spice Souks",
+        "description": "Step back in time on the historic Dubai Creek. Cross by traditional abra wooden boat to the Deira side and immerse yourself in the sensory world of the Gold and Spice Souks.",
+        "activities": ["Al Fahidi Historical Neighbourhood walking tour", "Dubai Museum visit", "Abra boat ride across Dubai Creek", "Gold Souk & Spice Souk exploration", "Traditional Emirati lunch at Al Fanar"]
+      },
+      {
+        "dayNumber": 4,
+        "title": "Desert Safari Adventure",
+        "description": "Leave the city behind for the golden dunes of the Dubai desert. An afternoon of dune bashing, sandboarding, and camel riding leads into a magical evening at a Bedouin camp.",
+        "activities": ["Hotel pickup for afternoon desert safari", "Dune bashing in 4x4", "Sandboarding & camel riding", "Bedouin camp: henna, falconry, live entertainment", "Traditional BBQ dinner under the stars"]
+      },
+      {
+        "dayNumber": 5,
+        "title": "Leisure & Departure",
+        "description": "A final morning to shop, relax by the pool, or visit a neighbourhood you missed. Transfer to the airport for your onward flight.",
+        "activities": ["Leisure morning (pool / beach / shopping)", "Optional: Alserkal Avenue contemporary art visit", "Airport transfer & departure"]
+      }
+    ]
+  },
+  {
+    "name": "Istanbul Bosphorus & History — 7 Days",
+    "description": "The only city in the world that straddles two continents, Istanbul rewards every traveller with layers of Byzantine, Ottoman, and modern culture. Seven days to explore Hagia Sophia, the Grand Bazaar, the Bosphorus strait, and the colourful back streets of Balat — an itinerary that barely scratches the surface.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=1200",
+    "originCityCode": "CAI",
+    "destinationCityCode": "IST",
+    "nights": 7,
+    "pricePerPerson": 980.00,
+    "totalPrice": 1960.00,
+    "currency": "EGP",
+    "inclusions": [
+      "Round-trip economy flights Cairo ↔ Istanbul",
+      "7 nights in a 4-star hotel in Sultanahmet or Beyoglu",
+      "Daily breakfast included",
+      "Hagia Sophia & Blue Mosque guided tour",
+      "Full-day Bosphorus cruise (lunch included)",
+      "Topkapi Palace treasury entry",
+      "All airport and hotel transfers"
+    ],
+    "itinerary": [
+      {
+        "dayNumber": 1,
+        "title": "Arrival in Istanbul",
+        "description": "Land at Istanbul Airport and transfer to your hotel in the historic Sultanahmet district. Freshen up and take a short walk to see the Blue Mosque illuminated at night.",
+        "activities": ["Airport transfer to Sultanahmet hotel", "Hotel check-in", "Sultanahmet Square evening stroll", "Welcome dinner at a rooftop restaurant"]
+      },
+      {
+        "dayNumber": 2,
+        "title": "Hagia Sophia, Blue Mosque & Topkapi Palace",
+        "description": "The heart of Byzantine and Ottoman Istanbul in a single day. Morning at Hagia Sophia with a guided tour of its glittering mosaics; afternoon at Topkapi Palace's treasury and harem.",
+        "activities": ["Hagia Sophia guided tour", "Blue Mosque visit (open for non-worshippers outside prayer times)", "Topkapi Palace treasury & harem tour", "Grand Bazaar first exploration"]
+      },
+      {
+        "dayNumber": 3,
+        "title": "Grand Bazaar & Spice Market",
+        "description": "Devote a full morning to getting delightfully lost in the 4,000-shop labyrinth of the Grand Bazaar, then follow your nose to the vivid Spice Market on the Golden Horn waterfront.",
+        "activities": ["Grand Bazaar immersive shopping morning", "Egyptian Spice Market visit", "Galata Bridge walk & fresh fish lunch", "Galata Tower panorama (optional)"]
+      },
+      {
+        "dayNumber": 4,
+        "title": "Full-Day Bosphorus Cruise",
+        "description": "Spend the day on the water, gliding between Europe and Asia along the strait that has shaped civilisations. The cruise passes Ottoman palaces, fortresses, and charming fishing villages.",
+        "activities": ["Full-day guided Bosphorus cruise (lunch onboard)", "Rumeli Hisari fortress stop", "Asian side: Üsküdar walking tour", "Ortaköy mosque & waffle street food"]
+      },
+      {
+        "dayNumber": 5,
+        "title": "Balat, Fener & the Golden Horn",
+        "description": "Discover Istanbul's hidden, colourful side in the historic Greek and Jewish neighbourhoods of Balat and Fener, where peeling pastel townhouses and neighbourhood coffee shops line cobblestone streets.",
+        "activities": ["Balat & Fener neighbourhood walking tour", "Chora Church (Kariye Mosque) Byzantine mosaics", "Street photography & café stops", "Eminönü waterfront & ferry ride"]
+      },
+      {
+        "dayNumber": 6,
+        "title": "Asian Istanbul — Kadıköy & Üsküdar",
+        "description": "Cross to the Asian side by ferry for a completely different Istanbul experience: the lively Kadıköy market, the Moda waterfront promenade, and the hilltop Çamlıca Mosque.",
+        "activities": ["Ferry to Asian side", "Kadıköy morning market food tour", "Moda waterfront walk & brunch", "Çamlıca Mosque & panoramic views", "Return by ferry at sunset"]
+      },
+      {
+        "dayNumber": 7,
+        "title": "Leisure & Departure",
+        "description": "A final morning for last-minute shopping, a Turkish bath (hammam), or simply lingering over çay in a Grand Bazaar tea house. Then transfer to the airport.",
+        "activities": ["Optional Turkish hammam experience", "Final Grand Bazaar or Istiklal Avenue shopping", "Airport transfer & departure"]
+      }
+    ]
+  }
+]

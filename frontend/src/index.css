@@ -1,0 +1,186 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================
+   VOYAGE — Global Styles
+   "The Ethereal Traveler" Design System
+   ============================ */
+
+@layer base {
+  html {
+    font-family: 'Manrope', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-on-surface min-h-screen overflow-x-hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::selection {
+    @apply bg-primary-container/30 text-on-primary-container;
+  }
+
+  /* Material Symbols base config */
+  .material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  }
+}
+
+@layer components {
+  /* ---- Glass Surfaces ---- */
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+  }
+
+  .glass-card {
+    background: rgba(255, 255, 255, 0.45);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+  }
+
+  .glass-card-subtle {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+  }
+
+  .glass-navbar {
+    @apply bg-white/70 backdrop-blur-xl;
+    box-shadow: 0 4px 24px 0 rgba(42, 47, 55, 0.05);
+  }
+
+  /* ---- Ghost Borders (No-Line Rule) ---- */
+  .ghost-border {
+    border: 1px solid rgba(169, 173, 183, 0.2);
+  }
+
+  .ghost-border-light {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .ghost-border-white {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+  }
+
+  /* ---- Atmospheric Background Clouds ---- */
+  .cloud-silhouette {
+    position: fixed;
+    filter: blur(80px);
+    opacity: 0.5;
+    z-index: -1;
+    border-radius: 50%;
+    background: white;
+    pointer-events: none;
+  }
+
+  /* ---- Primary Gradient Button ---- */
+  .btn-primary {
+    @apply bg-gradient-to-r from-primary to-primary-dim text-on-primary
+           py-3.5 px-8 rounded-full font-bold text-base
+           shadow-primary-glow
+           transition-all duration-200
+           flex items-center justify-center gap-2;
+  }
+
+  .btn-secondary {
+    @apply bg-white/50 backdrop-blur-md text-primary
+           py-3 px-6 rounded-full font-bold text-sm
+           border border-primary/20
+           hover:bg-white hover:shadow-md
+           active:scale-95 transition-all duration-200;
+  }
+
+  .btn-ghost {
+    @apply bg-transparent text-on-surface-variant
+           py-2 px-4 rounded-xl font-medium text-sm
+           hover:bg-surface-container transition-colors duration-200;
+  }
+
+  /* ---- Input Fields ---- */
+  .input-field {
+    @apply w-full bg-surface-container/50 border-none rounded-xl
+           px-4 py-3 text-on-surface font-body text-sm
+           placeholder:text-outline
+           focus:ring-2 focus:ring-primary/30 focus:bg-white
+           transition-all duration-200;
+  }
+
+  /* ---- Status Badges ---- */
+  .badge-confirmed {
+    @apply px-3 py-1 rounded-full bg-green-100 text-green-700
+           text-xs font-bold uppercase tracking-widest;
+  }
+
+  .badge-pending {
+    @apply px-3 py-1 rounded-full bg-amber-100 text-amber-700
+           text-xs font-bold uppercase tracking-widest;
+  }
+
+  .badge-cancelled {
+    @apply px-3 py-1 rounded-full bg-red-100 text-red-700
+           text-xs font-bold uppercase tracking-widest;
+  }
+
+  /* ---- Section Headings with Fade Line ---- */
+  .section-heading {
+    @apply font-headline text-xl font-bold flex items-center gap-2;
+  }
+
+  .section-heading::after {
+    content: '';
+    @apply flex-1 h-px;
+    background: linear-gradient(to right, rgba(169, 173, 183, 0.3), transparent);
+  }
+
+  /* ---- Flight Path Dashed Line ---- */
+  .flight-path-dash {
+    background-image: linear-gradient(to right, #294CD6 50%, transparent 50%);
+    background-size: 8px 1px;
+    background-repeat: repeat-x;
+  }
+
+  /* ---- Scrollbar ---- */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animate-delay-200 {
+    animation-delay: 200ms;
+  }
+
+  .animate-delay-500 {
+    animation-delay: 500ms;
+  }
+
+  .animate-delay-1000 {
+    animation-delay: 1000ms;
+  }
+}
+
+.padding-top-5rem{
+  padding-top: 5rem; 
+}
+
+.grow-1{
+  flex-grow: 1;
+}

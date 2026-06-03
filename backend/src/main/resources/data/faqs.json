@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How do I cancel a booking?",
+    "answer": "Go to Profile → My Bookings, find your booking, and click Cancel. Free cancellation is available for most bookings up to 24 hours before the service date. Cancellations after this window may incur fees."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept Visa, MasterCard, American Express, and debit cards. You can also pay using your Voyage Wallet balance."
+  },
+  {
+    "question": "How does the Voyage Wallet work?",
+    "answer": "The Voyage Wallet is a prepaid balance you can top up anytime. Use it to pay for hotels, tours, flights, and packages at checkout. Top up via Profile → Wallet → Top Up."
+  },
+  {
+    "question": "What are Voyage Points (loyalty points)?",
+    "answer": "Voyage Points are earned with every confirmed booking. 1 point per 1 EGP spent. Accumulate points to reach Gold or Platinum tier for exclusive perks. Redeem points into EGP wallet credit."
+  },
+  {
+    "question": "How do I redeem my loyalty points?",
+    "answer": "At checkout, if you have enough Voyage Points, you will see a Redeem Points option. Click it to apply your points as a discount on your booking."
+  },
+  {
+    "question": "Can I modify a booking after it is confirmed?",
+    "answer": "Currently, modifications are not supported online. Please contact our support team and we will help you change your booking dates or details."
+  },
+  {
+    "question": "How do I find hotels near a specific location?",
+    "answer": "Go to Hotels from the navigation menu, search by city name. You can filter by stars, price, and amenities to find exactly what you need."
+  },
+  {
+    "question": "What is included in a tour package?",
+    "answer": "Each tour package clearly lists its inclusions on the detail page. Typically this includes transport, guide, and entrance fees. Meals and accommodation are specified per package."
+  },
+  {
+    "question": "How do I book a flight?",
+    "answer": "Go to Flights from the navigation, enter your origin and destination, select dates, and choose your preferred flight. Proceed to checkout to confirm."
+  },
+  {
+    "question": "What is a Flight+Hotel Package?",
+    "answer": "A Flight+Hotel Package bundles a round-trip flight with accommodation into one discounted price. You'll find these under Packages in the navigation. They offer better value than booking separately."
+  },
+  {
+    "question": "How do I add items to my wishlist?",
+    "answer": "Click the heart icon on any hotel, tour, or package card to save it to your wishlist. Access your saved items from Profile → Wishlist."
+  },
+  {
+    "question": "Is my payment information secure?",
+    "answer": "Yes. All payment transactions are encrypted with industry-standard SSL. We do not store full card numbers on our servers."
+  },
+  {
+    "question": "How long does booking confirmation take?",
+    "answer": "Booking confirmation is instant after successful payment. You will receive a confirmation code on screen and a follow-up email."
+  },
+  {
+    "question": "What happens if my flight is cancelled by the airline?",
+    "answer": "In case of airline cancellations, we will notify you immediately and offer a full refund or rebooking at no extra charge."
+  },
+  {
+    "question": "How do I leave a review for a hotel or tour?",
+    "answer": "After a confirmed and paid booking, go to the hotel or tour detail page and scroll to the Reviews section. You can submit a star rating, a title, and your written experience."
+  }
+]

@@ -1,0 +1,40 @@
+### Build Tools ###
+target/
+build/
+out/
+.gradle/
+.mvn/
+bin/
+
+### IDE Specific ###
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse / STS
+.settings/
+.project
+.classpath
+.factorypath
+.springBeans
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+### Secrets and Environment ###
+.env
+*.properties.local
+*.yml.local
+
+### Logs and Temp ###
+*.log
+logs/
+temp/
+*.tmp
+
+### OS Specific ###
+.DS_Store
+Thumbs.db

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Pyramids of Giza",
+    "cityCode": "CAI",
+    "description": "The last surviving wonder of the ancient world and the oldest of the Seven Wonders of the Ancient World. Built over 4,500 years ago, the Great Pyramid of Khufu, the Pyramid of Khafre, and the Pyramid of Menkaure rise from the Giza plateau in timeless majesty alongside the enigmatic Great Sphinx.",
+    "imageUrl": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?w=800",
+    "latitude": 29.9792,
+    "longitude": 31.1342,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Egyptian Museum",
+    "cityCode": "CAI",
+    "description": "Home to the world's largest collection of ancient Egyptian antiquities, including Tutankhamun's golden death mask. With over 120,000 artefacts spread across two floors, a visit here is an unmissable journey through 5,000 years of human civilisation.",
+    "imageUrl": "https://images.unsplash.com/photo-1561329786-5dc51a31f7b7?w=800",
+    "latitude": 30.0478,
+    "longitude": 31.2336,
+    "category": "cultural",
+    "hiddenGem": false
+  },
+  {
+    "name": "Al-Muizz Street",
+    "cityCode": "CAI",
+    "description": "Once the main street of medieval Cairo, Al-Muizz li-Din Allah Street is an open-air museum of Islamic architecture. Lined with hundreds of monuments spanning a thousand years — from Fatimid to Ottoman — it is at its most magical after dark when the lanterns are lit.",
+    "imageUrl": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=800",
+    "latitude": 30.0530,
+    "longitude": 31.2620,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Bayt Al-Suhaymi",
+    "cityCode": "CAI",
+    "description": "A magnificent 17th-century Ottoman merchant's house tucked inside the fabric of Islamic Cairo, just steps from Al-Muizz Street. Its intricate mashrabiyya screens, central courtyard, and layered architectural details are among the finest examples of domestic Islamic architecture in Egypt.",
+    "imageUrl": "https://images.unsplash.com/photo-1602934585522-48b4e9df6012?w=800",
+    "latitude": 30.0535,
+    "longitude": 31.2622,
+    "category": "cultural",
+    "hiddenGem": true
+  },
+  {
+    "name": "Wekalet El Ghouri",
+    "cityCode": "CAI",
+    "description": "A 16th-century Mamluk caravanserai that now hosts free Sufi whirling-dervish performances twice a week. The atmospheric courtyard, lit by lanterns and packed with locals, offers an authentic Cairo experience that most tourists never discover.",
+    "imageUrl": "https://images.unsplash.com/photo-1602934585522-48b4e9df6012?w=800",
+    "latitude": 30.0467,
+    "longitude": 31.2618,
+    "category": "cultural",
+    "hiddenGem": true
+  },
+  {
+    "name": "Karnak Temple",
+    "cityCode": "LXR",
+    "description": "The largest religious complex ever built, Karnak is a vast open-air museum encompassing temples, chapels, pylons, and obelisks constructed by successive pharaohs over 2,000 years. The Great Hypostyle Hall — a forest of 134 monumental columns — is one of the most awe-inspiring spaces in human history.",
+    "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800",
+    "latitude": 25.7188,
+    "longitude": 32.6573,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Valley of the Kings",
+    "cityCode": "LXR",
+    "description": "For five centuries, from the 16th to the 11th century BC, the Valley of the Kings served as the burial ground for Egypt's New Kingdom pharaohs, including Tutankhamun and Ramesses the Great. Over 60 tombs have been discovered, many painted with vivid scenes from the Book of the Dead.",
+    "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800",
+    "latitude": 25.7402,
+    "longitude": 32.6014,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Luxor Temple",
+    "cityCode": "LXR",
+    "description": "Built primarily by Amenhotep III and Ramesses II, Luxor Temple sits in the heart of the modern city, illuminated at night in a spectacle that links the living city to its ancient past. The two enormous seated statues of Ramesses II at the entrance are iconic images of ancient Egypt.",
+    "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800",
+    "latitude": 25.6997,
+    "longitude": 32.6392,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Deir el-Medina",
+    "cityCode": "LXR",
+    "description": "The forgotten village of the artisans who built the royal tombs in the Valley of the Kings. The tombs here are smaller but often more vividly painted than the royal ones, and the site receives a fraction of the visitors. A remarkable window into the daily life of ancient Egyptian craftsmen.",
+    "imageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800",
+    "latitude": 25.7298,
+    "longitude": 32.6048,
+    "category": "historic",
+    "hiddenGem": true
+  },
+  {
+    "name": "Philae Temple",
+    "cityCode": "ASW",
+    "description": "Dedicated to the goddess Isis, Philae Temple was dismantled stone by stone and relocated to Agilkia Island to save it from the rising waters of Lake Nasser in the 1970s. Reached by motorboat, it is one of Egypt's most romantically situated ancient monuments.",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "latitude": 24.0236,
+    "longitude": 32.8844,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Nubian Museum",
+    "cityCode": "ASW",
+    "description": "An outstanding museum showcasing the rich culture, art, and history of Nubia — the ancient civilisation that flourished between Egypt and Sudan. The collections include artefacts rescued from the area flooded by Lake Nasser and offer a fascinating complement to the more famous Pharaonic sites.",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "latitude": 24.0867,
+    "longitude": 32.8900,
+    "category": "cultural",
+    "hiddenGem": false
+  },
+  {
+    "name": "Gharb Soheil Nubian Village",
+    "cityCode": "ASW",
+    "description": "Across the Nile from Aswan's southern tip, this Nubian village bursts with colour — houses painted in vivid blues, yellows, and greens, with hand-painted murals telling stories in a language all their own. Reached only by local ferry or hired boat, it remains blissfully off the beaten path.",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "latitude": 24.0710,
+    "longitude": 32.8680,
+    "category": "cultural",
+    "hiddenGem": true
+  },
+  {
+    "name": "Burj Khalifa",
+    "cityCode": "DXB",
+    "description": "At 828 metres, the Burj Khalifa remains the world's tallest building. The At the Top observation deck on the 148th floor offers staggering 360-degree views across Dubai, the desert, and the Arabian Gulf — especially breathtaking at sunset and after dark when the city blazes with light.",
+    "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+    "latitude": 25.1972,
+    "longitude": 55.2744,
+    "category": "cultural",
+    "hiddenGem": false
+  },
+  {
+    "name": "Al Fahidi Historical Neighbourhood",
+    "cityCode": "DXB",
+    "description": "Dubai's oldest surviving residential neighbourhood, Al Fahidi (formerly Bastakiya) preserves the windtower architecture of the 19th century. Its narrow lanes, courtyard museums, and the adjacent Dubai Museum offer a quiet counterpoint to the glittering towers just a kilometre away.",
+    "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+    "latitude": 25.2637,
+    "longitude": 55.2972,
+    "category": "historic",
+    "hiddenGem": true
+  },
+  {
+    "name": "Hagia Sophia",
+    "cityCode": "IST",
+    "description": "Built as a Christian cathedral in 537 AD, converted to a mosque in 1453, turned into a museum in 1934, and restored as a mosque in 2020, Hagia Sophia has witnessed the full sweep of Mediterranean and Near Eastern history. Its enormous dome, glittering Byzantine mosaics, and layered history are unrivalled.",
+    "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=800",
+    "latitude": 41.0086,
+    "longitude": 28.9802,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "Grand Bazaar",
+    "cityCode": "IST",
+    "description": "One of the largest and oldest covered markets in the world, the Grand Bazaar has over 4,000 shops spread across 60 covered streets. Since the 15th century it has been the pulsing commercial heart of Istanbul, trading in carpets, spices, gold, ceramics, and leather.",
+    "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=800",
+    "latitude": 41.0108,
+    "longitude": 28.9680,
+    "category": "cultural",
+    "hiddenGem": false
+  },
+  {
+    "name": "Balat & Fener Neighbourhoods",
+    "cityCode": "IST",
+    "description": "These twin neighbourhoods along the Golden Horn were home to Istanbul's Greek and Jewish communities for centuries. Today their peeling Ottoman townhouses painted in faded pastels, neighbourhood coffee houses, and small artisan workshops attract photographers and wanderers seeking the city's soul beyond the tourist trail.",
+    "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=800",
+    "latitude": 41.0283,
+    "longitude": 28.9499,
+    "category": "cultural",
+    "hiddenGem": true
+  },
+  {
+    "name": "Tower of London",
+    "cityCode": "LON",
+    "description": "A royal palace, fortress, and prison spanning nearly 1,000 years of British history, the Tower of London houses the Crown Jewels — the most complete collection of royal regalia in the world. The iconic Yeoman Warder 'Beefeaters' guide visitors through tales of beheadings, intrigue, and the famous Tower Ravens.",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+    "latitude": 51.5081,
+    "longitude": -0.0759,
+    "category": "historic",
+    "hiddenGem": false
+  },
+  {
+    "name": "British Museum",
+    "cityCode": "LON",
+    "description": "One of the world's greatest museums, the British Museum holds over 8 million works tracing the story of human cultures from prehistoric times to the present. Highlights include the Rosetta Stone, the Elgin Marbles, and the Sutton Hoo Helmet.",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+    "latitude": 51.5194,
+    "longitude": -0.1270,
+    "category": "cultural",
+    "hiddenGem": false
+  },
+  {
+    "name": "Leake Street Arches",
+    "cityCode": "LON",
+    "description": "Hidden beneath Waterloo station, Leake Street is London's only legal graffiti tunnel — a constantly changing gallery of street art that has attracted Banksy and hundreds of other artists since 2008. Free to visit at any hour, it is one of the most vivid and surprising hidden spaces in the city.",
+    "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+    "latitude": 51.5016,
+    "longitude": -0.1124,
+    "category": "cultural",
+    "hiddenGem": true
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "code": "CAI",
+    "name": "Cairo",
+    "countryCode": "EG",
+    "description": "Egypt's sprawling capital on the banks of the Nile, where ancient history meets modern life. Home to the last surviving wonder of the ancient world, world-class museums, and a vibrant bazaar culture that has thrived for centuries.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?w=1200",
+    "latitude": 30.0444,
+    "longitude": 31.2357,
+    "popularActivities": [
+      "Felucca ride at sunset on the Nile",
+      "Khan El Khalili bazaar walk",
+      "Egyptian Museum visit",
+      "Coptic Cairo tour",
+      "Al-Muizz Street evening stroll",
+      "Citadel of Saladin visit"
+    ]
+  },
+  {
+    "code": "LXR",
+    "name": "Luxor",
+    "countryCode": "EG",
+    "description": "Once the ancient capital of Thebes, Luxor is an open-air museum unlike any other. The East Bank houses magnificent temples dedicated to Amun, while the West Bank conceals the Valley of the Kings — the eternal resting place of Egypt's pharaohs.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=1200",
+    "latitude": 25.6872,
+    "longitude": 32.6396,
+    "popularActivities": [
+      "Hot-air balloon ride over the Valley of the Kings",
+      "Karnak Temple sound and light show",
+      "Luxor Temple at dusk",
+      "Valley of the Queens tour",
+      "Colossi of Memnon sunrise visit",
+      "Bicycle ride through sugar-cane fields"
+    ]
+  },
+  {
+    "code": "ASW",
+    "name": "Aswan",
+    "countryCode": "EG",
+    "description": "Egypt's southernmost city rests on the granite rocks of the First Nile Cataract. A slower, more laid-back pace, Nubian villages painted in bright colours, the island temple of Philae, and the engineering marvel of the High Dam define this sun-drenched jewel.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200",
+    "latitude": 24.0889,
+    "longitude": 32.8998,
+    "popularActivities": [
+      "Traditional felucca sailing",
+      "Philae Temple visit",
+      "Nubian Village tour by motorboat",
+      "Aswan High Dam excursion",
+      "Abu Simbel day trip",
+      "Botanical Garden on Kitchener's Island"
+    ]
+  },
+  {
+    "code": "DXB",
+    "name": "Dubai",
+    "countryCode": "AE",
+    "description": "A city that rose from the desert in a single generation, Dubai dazzles with its record-breaking skyscrapers, artificial islands, and relentless ambition. Yet beneath the glitter lies a rich Emirati heritage visible in the historic creek and traditional souks.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200",
+    "latitude": 25.2048,
+    "longitude": 55.2708,
+    "popularActivities": [
+      "Burj Khalifa observation deck",
+      "Dubai Creek abra boat ride",
+      "Gold and Spice Souk exploration",
+      "Desert safari with dune bashing",
+      "Dubai Mall and fountain show",
+      "Alserkal Avenue contemporary art"
+    ]
+  },
+  {
+    "code": "IST",
+    "name": "Istanbul",
+    "countryCode": "TR",
+    "description": "The only city in the world that straddles two continents, Istanbul has served as the capital of three great empires — Roman, Byzantine, and Ottoman. Its skyline of minarets and domes, vibrant bazaars, and world-famous cuisine make it one of the great cities of the world.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=1200",
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "popularActivities": [
+      "Hagia Sophia and Blue Mosque visit",
+      "Grand Bazaar and Spice Market",
+      "Bosphorus cruise at sunset",
+      "Topkapi Palace treasury tour",
+      "Galata Tower panorama",
+      "Kadikoy morning market on the Asian side"
+    ]
+  },
+  {
+    "code": "LON",
+    "name": "London",
+    "countryCode": "GB",
+    "description": "One of the world's great global cities, London blends over 2,000 years of history with cutting-edge culture, cuisine, and fashion. From the Tower of London to the Tate Modern, from Notting Hill to Shoreditch, every neighbourhood tells a different story.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1200",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "popularActivities": [
+      "British Museum visit",
+      "Borough Market food tour",
+      "Thames riverboat to Greenwich",
+      "West End theatre show",
+      "Hyde Park cycling",
+      "Tower Bridge and Tower of London"
+    ]
+  }
+]
